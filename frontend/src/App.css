@@ -1,0 +1,94 @@
+/* .App {
+  text-align: center;
+} */
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+
+/* .container {
+  position: relative;
+} */
+
+/* .webcam {
+  display: block;
+  margin-bottom: 10px;
+} */
+
+/* .buttons-container {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+} */
+
+/* .button {
+  background-color: #111b25; 
+  color: #fff; 
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+} */
+
+body {
+  background-color: #f0f0f0; /* Light gray background */
+  font-family: Arial, sans-serif; /* Specify desired font */
+  display: flex;
+  justify-content: center; 
+}
+
+h1 {
+  color: #333; /* Dark gray text color */
+  margin-bottom: 50px;
+}
+
+button {
+  background-color: #007bff; /* Blue button background */
+  font-size: large;
+  color: #fff; /* White button text color */
+  border: none; /* Remove button border */
+  padding: 10px 20px; /* Add padding */
+  cursor: pointer; /* Add cursor pointer on hover */
+  border-radius: 5px; /* Add button border radius */
+  margin-right: 100px; /* Add margin between buttons */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue background on hover */
+}
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(190, 56, 56);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
