@@ -1,8 +1,7 @@
 # Python 
 
-Using Different Python Libraries for Facial Emotion Recognition 
-
-OpenCV library for Webcam 
+## Python Project Using Convolutional Neural Network Algorithm (CNN), Using Different Python Libraries for Facial Emotion Recognition 
+## OpenCV, Tensorflow, Keras, MatPlotlib and FastAPI 
 
 # Screenshots
 
