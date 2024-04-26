@@ -1,7 +1,7 @@
 # Python 
 
-## Python Project Using Convolutional Neural Network Algorithm (CNN), Using Different Python Libraries for Facial Emotion Recognition 
-## OpenCV, Tensorflow, Keras, MatPlotlib and FastAPI 
+### Python Project Using Convolutional Neural Network Algorithm (CNN), using different Python libraries and train the model for Facial Emotion Recognition 
+### Libraries like OpenCV, Tensorflow, Keras, MatPlotlib and FastAPI are used in this project
 
 # Screenshots
 
